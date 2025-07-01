@@ -1,0 +1,27 @@
+{
+  "name": "react-crud-gen",
+  "version": "1.0.0",
+  "description": "Generate React CRUD components for Supabase + Vite projects",
+  "main": "index.js",
+  "bin": {
+    "react-crud-gen": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "supabase",
+    "vite",
+    "crud",
+    "cli",
+    "generator",
+    "tooling",
+    "scaffold"
+  ],
+  "author": "Caleb Calderon",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}

@@ -30,17 +30,6 @@ When you run the CLI, you'll be asked:
 
 2. Import and use the component in your app:
 
-````jsx
-import EventList from './components/EventList';
-
-function App() {
-  return (
-    <div>
-      <h1>Events</h1>
-      <EventList />
-    </div>
-  );
-}
 
 3. Run your app
 
